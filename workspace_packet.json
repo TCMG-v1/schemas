@@ -1,0 +1,18 @@
+{
+  "task": "string",
+  "project_context": [
+    {
+      "path": "string",
+      "summary": "string",
+      "content_ref": "string"
+    }
+  ],
+  "available_tools": [
+    { "$ref": "tool.json" }
+  ],
+  "round_state": {
+    "id": "string",
+    "history_refs": ["string"],
+    "metadata": {}
+  }
+}
