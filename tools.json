@@ -1,0 +1,15 @@
+{
+  "name": "string",
+  "description": "string",
+  "input_schema": {
+    "type": "object",
+    "properties": {},
+    "required": []
+  },
+  "output_schema": {
+    "type": "object",
+    "properties": {},
+    "required": []
+  },
+  "entrypoint": "string  // e.g. 'python scripts/compress_context.py'"
+}
